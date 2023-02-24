@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "shital",
+      "email": "shital@gmail.com",
+      "mobile": "9632587410",
+      "city": "mumbai"
+    },
+    {
+      "id": 3,
+      "name": "kiran",
+      "email": "kiran@gmail.com",
+      "mobile": "9632587425",
+      "city": "kolhapur"
+    },
+    {
+      "id": 4,
+      "name": "rutu",
+      "email": "rutu@gmail.com",
+      "mobile": "9563214780",
+      "city": "pune"
+    },
+    {
+      "id": 5,
+      "name": "jack",
+      "email": "jack@gmail.com",
+      "mobile": "9769856321",
+      "city": "London"
+    },
+    {
+      "id": 6,
+      "name": "garry",
+      "email": "garry@gmail.com",
+      "mobile": "9874568532",
+      "city": "USA"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
