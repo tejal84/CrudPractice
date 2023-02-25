@@ -1,0 +1,15 @@
+.card{
+    width: 550px;
+    height: 400px;
+   color: white;
+    top: 50%;
+    left: 50%;
+  border: 3px solid black;
+  background-color: black;
+  padding: 30px 40px;
+  
+
+}
+a{
+    text-decoration: none;
+}

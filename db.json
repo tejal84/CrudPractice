@@ -2,8 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "snehal",
+      "email": "snehal@gmail.com",
+      "mobile": "9632587410",
+      "city": "kolkata"
     },
     {
       "id": 2,
@@ -39,6 +41,22 @@
       "email": "garry@gmail.com",
       "mobile": "9874568532",
       "city": "USA"
+    }
+  ],
+  "signup": [
+    {
+      "name": "tejal",
+      "email": "tejurathod746@gmail.com",
+      "mobile": "9356940569",
+      "password": "tejurathod123",
+      "id": 1
+    },
+    {
+      "name": "sandeep",
+      "email": "sandy@gmail.com",
+      "mobile": "8830662356",
+      "password": "sandy",
+      "id": 2
     }
   ],
   "comments": [
